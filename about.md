@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is Giulia's personal blog (yes, I know--it's old school). 
 
-### More Information
+[My Goodreads page](https://www.goodreads.com/user/show/28543264-giulia)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
