@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Book Notes: The Feeling of Meaninglessness
-tags: ["book review"]
 ---
 
 * Logotherapy vs. Psychotherapy
