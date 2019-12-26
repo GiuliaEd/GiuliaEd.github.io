@@ -4,6 +4,9 @@ title: Book Notes--The Feeling of Meaninglessness
 tags: ["book review"]
 ---
 
+Below are excerpts from the book by Viktor Frankl. A link to the book is [here](https://www.amazon.com/Feeling-Meaninglessness-Challenge-Psychotherapy-Philosophy/dp/0874627583).
+
+
 ### On Multi-dimensional human beings
 
 * In a sense, man is a computer, but at the same time, man is infinitely more than a computer. Anticipating what I am going to explain and elaborate upon, let me say that man is dimensionally more than just a computer.
