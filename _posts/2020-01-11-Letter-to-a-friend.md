@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Letter to Nessie
+tags: ["letter"]
 ---
 
 
